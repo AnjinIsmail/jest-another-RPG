@@ -1,1 +1,1 @@
-const Game = require('..lib/Game.js');
+const Game = require('../lib/Game.js');
